@@ -1,0 +1,1 @@
+Simple Node.js console application which reads ones name and age. It demonstrates callback hell building up.

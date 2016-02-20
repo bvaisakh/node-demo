@@ -1,0 +1,1 @@
+Simple Node.js console applicatin which reads your name and says hi!
