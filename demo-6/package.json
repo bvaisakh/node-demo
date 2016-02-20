@@ -1,0 +1,19 @@
+{
+  "name": "demo-6",
+  "description": "Connecting express server to mongodb.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvaisakh/node-demo/demo-6"
+  },
+  "author": "bVaisakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvaisakh/node-demo/issues"
+  },
+  "homepage": "https://github.com/bvaisakh/node-demo",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.4"
+  }
+}

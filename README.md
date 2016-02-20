@@ -21,3 +21,6 @@ Simple Node.js server that responds with 'HELLO WORLD!'
 
 ### demo-05
 Express server demonstrating routing and middlewares.
+
+### demo-06
+Connecting express server to mongodb.
