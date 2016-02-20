@@ -1,0 +1,20 @@
+{
+  "name": "demo-7",
+  "description": "Minimal Express MVC.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvaisakh/node-demo/demo-7"
+  },
+  "author": "bVaisakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvaisakh/node-demo/issues"
+  },
+  "homepage": "https://github.com/bvaisakh/node-demo",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.4"
+  }
+}

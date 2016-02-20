@@ -24,3 +24,6 @@ Express server demonstrating routing and middlewares.
 
 ### demo-06
 Connecting express server to mongodb.
+
+### demo-07
+Minimal Express MVC.

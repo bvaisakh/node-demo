@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contacts</title>
+</head>
+<body>
+
+<table>
+	<tr>
+	    <th>NAME</th>
+	    <th>NUMBER</th> 
+	</tr>
+	<%contacts.forEach(function (contact) {%>
+	<tr>
+	    <td><%= contact.name %></td>
+	    <td><%= contact.number %></td> 
+  	</tr>
+	<%});%>
+</table>
+
+</body>
+</html>
